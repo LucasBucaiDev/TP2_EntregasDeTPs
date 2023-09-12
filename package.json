@@ -1,0 +1,11 @@
+{
+  "name": "tp2_tp1_lucasb",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "trabajo_practico_1.js",
+  "scripts": {
+    "test": "node trabajo_practico_1.js"
+  },
+  "author": "Lucas Bucai",
+  "license": "ISC"
+}
