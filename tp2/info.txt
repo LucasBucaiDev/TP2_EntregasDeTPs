@@ -1,0 +1,15 @@
+{
+	"contenidoStr": "{\n  \"name\": \"entrega_tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Entrega Tp2\",\n  \"main\": \"trabajo_practico_2.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"author\": \"LB\",\n  \"license\": \"ISC\"\n}\n",
+	"contenidoObj": {
+		"name": "entrega_tp2",
+		"version": "1.0.0",
+		"description": "Entrega Tp2",
+		"main": "trabajo_practico_2.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"author": "LB",
+		"license": "ISC"
+	},
+	"size": 233
+}

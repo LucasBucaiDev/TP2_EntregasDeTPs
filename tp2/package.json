@@ -1,0 +1,11 @@
+{
+  "name": "entrega_tp2",
+  "version": "1.0.0",
+  "description": "Entrega Tp2",
+  "main": "trabajo_practico_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LB",
+  "license": "ISC"
+}
