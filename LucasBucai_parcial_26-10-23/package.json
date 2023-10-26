@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "name": "parcial_26-10-23",
+  "version": "1.0.0",
+  "description": "Parcial 26/10/23",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "LB",
+  "license": "ISC"
+}
